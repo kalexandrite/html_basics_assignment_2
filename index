@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <img src="assets/images/future_vision.png" alt="Future Vision in block type over gradient floating squares" >
+        <img src="assets/images/future_vision.png" alt="Future Vision in block type over gradient floating squares">
     </header>
         <main>
             
@@ -36,14 +36,15 @@
                 </div>
                 <div class= "row2">    
                     <h2>
-                        Do you think that you can imagine something that is not from your past?
+                        Could you imagine something for your future that is not something you alkready know from your past?
                     </h2>
                         </div> 
-                <div class= "row">
+                <div class= "row2">
                     <h3>
                         If we know that the stories about our past empower our future, where do you begin to imagine the story you want the future to be telling?
                     </h3>    
                     </div>
+
                     <div class="row">
                         <ul>
                             <li>
@@ -70,13 +71,14 @@
                             </li>
                         </ul>
                     </div>
-                  
+                    <img src="assets/images/past stories.png" alt="Stories for a PAST we can DREAM as block type floating over gradient floating squares">
         </main>
             <footer>
-                <div class="row2">
+                <div class="row3">
+                    <br>
                 <p>
-                  For the Fundamentals of Web-Based Multimedia Communications Fall 2023 in-class assignment <em>Semantic Sentiments and Aspirations</em>       
-                </p>
+                  Template for of Web-Based Multimedia Communications <em>Semantic Sentiments and Aspirations</em> Fall 2023 in-class assignment       
+                </p> 
                 </div>
             </footer>
 </body>
