@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.acceptSuggestionOnEnter": "on",
+		"workbench.colorCustomizations": {
+
+			"activityBar.activeBackground": "#f6aed4",
+			"activityBar.background": "#f6aed4",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#538f10",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"commandCenter.border": "#15202b99",
+			"sash.hoverBorder": "#f6aed4",
+			"statusBar.background": "#f180bc",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#ec52a4",
+			"statusBarItem.remoteBackground": "#f180bc",
+			"statusBarItem.remoteForeground": "#15202b",
+			"titleBar.activeBackground": "#f180bc",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#f180bc99",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"peacock.color": "#f180bc",
+		"workbench.colorTheme": "Material Gecko",
+		"workbench.preferredDarkColorTheme": "Material Gecko",
+		"workbench.editor.decorations.colors": true,
+		"workbench.preferredHighContrastColorTheme": "Material Gecko",
+		"window.autoDetectColorScheme": true,
+		"editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, 'Fira Code'",
+		"editor.fontLigatures": true,
+		"editor.fontVariations": true,
+	}
+}
