@@ -31,12 +31,11 @@ main {
     max-width: 800px;
     max-height: 500px;
     overflow: hidden;
-    margin: 10px;
 }
 
 
 .row3 {
-    padding: 3rem;
+    padding: 2rem;
     max-width: 100%;
     text-align: center;
     overflow: hidden;
@@ -45,7 +44,8 @@ main {
 
 p {
     color: #3a3a3b;
-    font: 1em sans-serif;
+    font: 1rem sans-serif;
+    margin: auto;
 }
 
 li{
