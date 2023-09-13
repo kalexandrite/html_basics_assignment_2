@@ -28,6 +28,7 @@
 			"titleBar.inactiveForeground": "#e7e7e799"
 		},
 		"peacock.color": "#3e2692",
-		"editor.acceptSuggestionOnEnter": "on"
+		"editor.acceptSuggestionOnEnter": "on",
+		"liveServer.settings.multiRootWorkspaceName": "html_basics_assignment_2"
 	}
 }
