@@ -11,7 +11,8 @@ img {
 }
 
 main {
-    display: flex;flex: 1 2 100px;
+    display: flex;
+    flex: 1 2 100px;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
@@ -43,8 +44,8 @@ main {
 
 
 p {
-    color: #3a3a3b;
-    font: 1rem sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
     margin: auto;
 }
 
@@ -53,30 +54,27 @@ li{
 }
 
 h1 {
-    color: #d0610d;
-    text-shadow: #420916;
-    font-family: 'Foldit',cursive; ;
-    font-size: 4rem;
-    font-weight: 800;
-    line-height: 4rem;
+    font-family: 'Notable', sans-serif;
+    font-size: 3rem;
+    line-height: 3rem;
+    color: #a9d312;
     text-shadow: 1px 1px #420916;
 
 }
 
 h2 {
-    font-family: 'Foldit',cursive;
+    font-family: 'Notable', sans-serif;
     color: #ff1493;
-    font-weight:200;
-    font-size: 3.5rem;
-    line-height: 4rem;
+    font-size: 2.4rem;
+    line-height: 2.5rem;
     text-shadow: 1px 1px #420916;
     
 }
 
 h3 {
-    font-family: 'Foldit',cursive;
+    font-family: 'Foldit', cursive;
     font-size: 2rem;
-    color: #838385;
+    color: #6464d6;
     text-shadow: 1px 1px #420916;
     font-weight: 400;
 }

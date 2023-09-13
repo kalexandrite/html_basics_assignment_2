@@ -4,33 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Assignment 2 - Internet Explorer Exploded =  Semantic Sentiments and Aspirations (In Class Assignment)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Foldit:wght@100;400;600&family=Notable&family=Noto+Sans+Linear+B&display=swap');
+    </style>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
         <img src="assets/images/future_vision.png" alt="Future Vision in block type over gradient floating squares">
     </header>
-        <main>
-            
-        
+        <main> 
                 <div class= "row">    
                     <h1>
                 How will you begin to dream something no machine can dream? 
                     </h1>
                 </div>
-   
                 <div class= "row">    
             <h3>
-            From Franz Fanon's <em>Peau noire, masques blancs / Black Skin, White Masks </em>,1952/1967</h3>
+            From Franz Fanon's <em>Peau noire, masques blancs / Black Skin, White Masks</em>, 1952/1967
+            </h3>
             <br>
                 <p>
                  As David Marriot points out in his essay 'Inventions of Existence: Sylvia Wynter, Frantz Fanon, Sociogeny, and "the Damned' "Fanon makes a certain reference to history, which he contrasts to that of invention and that of self-creation:"
+                </p>
                  <br>
                  <br>
-                <em>
-                    "I am not a prisoner of History [l'Histoire]. I should not seek there for the meaning of my destiny. I should constantly remind myself that the real leap [le véritable saut] consists in introducing invention into existence.
-                
-                In the world through which I travel, I am endlessly creating myself."
+               <p>
+                 <em>
+                    "I am not a prisoner of History [l'Histoire]. I should not seek there for the meaning of my destiny. I should constantly remind myself that the real leap [le véritable saut] consists in introducing invention into existence. In the world through which I travel, I am endlessly creating myself."
                  </em>
                 </p>
                 </div>
@@ -59,9 +61,6 @@
                                 How do you spend your time? What stories do you seek out - to tell or to listen to?
                             </li>
                         </ul>
-                    </div>
-    
-                    <div class="row">
                         <ul>
                              <li>
                               How will it sound? What will the rhythm of your day be?
